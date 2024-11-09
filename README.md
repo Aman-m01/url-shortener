@@ -14,7 +14,7 @@
 ## started 
 1. clone the repo
 ```bash
-    git clone 
+    git clone https://github.com/Aman-m01/url-shortener.git
     cd url-shortener
 ```
 
